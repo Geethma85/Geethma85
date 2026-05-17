@@ -4,9 +4,9 @@ I'm Geethma Piyaratne, an Information Systems undergraduate passionate about cod
 
 ##...
 
-- 🌱 Currently learning Java, Web Development & Databases.  
+- 🌱 Currently learning Python, Java, Web Development & Databases.  
 - ☁️ Exploring Cloud, AI & Emerging Technologies.  
-- 🚀 Building projects to sharpen my skills  
+- 🚀 Building projects to sharpen my skills.
 
 ### 🔧 Tech & Tools
 
