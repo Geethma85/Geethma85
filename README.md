@@ -7,13 +7,14 @@
 
 💻 **Passionate** about software development, database systems, software engineering, and analytical problem-solving.
 
-○ **Currently learning and building** projects with the **MERN Stack** (MongoDB, Express.js, React, Node.js).
+○ Exploring AI and modern software development practices
 
-○ **Exploring** mobile application development using **Flutter**.
+○ Currently learning and building projects with the MERN Stack
 
-○ **Expanding backend skills** with **Python** and **Flask**.
+○ Developing cross-platform mobile applications with Flutter
 
-○ **Interested in** Database Management, System Analysis, and Software Engineering.
+○ Strengthening my backend development skills with Python & Flask
+
 
 🚀 **Continuously learning** new technologies and applying them through real-world projects.
 
@@ -52,14 +53,12 @@
 
 ---
 
-## 🎯 Current Goals
-
-- Build and deploy full-stack MERN applications
-- Strengthen my skills in React, Node.js, and Express.js
-- Develop cross-platform mobile apps using Flutter
-- Improve my Python and Flask backend development skills
-- Deepen my understanding of Database Design and Management
-- Continuously learn and explore new technologies
+## 🎯 What I'm Working On
+- Building and deploying web applications and full-stack applications
+- Strengthening my full-stack development skills, with a focus on React, Node.js, Express.js, Python.
+- Developing cross-platform mobile applications with Flutter
+- Working with databases and API integration
+- Learning more about AI and AI-assisted software development
 
 
 <p >
