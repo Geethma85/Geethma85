@@ -29,7 +29,7 @@
 
 ### Web & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,flutter,dart" />
 </p>
 
 ### Databases & Tools
